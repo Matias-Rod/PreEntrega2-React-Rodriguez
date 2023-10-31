@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "nombre": "Epihone Archtop",
+    "marca": "Epiphone",
+    "precio": 511.260,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_862885-MLA48592231739_122021-O.webp",
+    "descripcion": "Guitarra eléctrica Epiphone Archtop Casino de arce natural brillante con diapasón de granadillo brasileño.",
+    "categoria": "guitarra"
+  },
+  {
+    "id": 2,
+    "nombre": "Epihone Explorer",
+    "marca": "Epiphone",
+    "precio": 450.390,
+    "imagen": "https://mariogomez.com.ar/wp-content/uploads/2023/09/epiphone-explorer-e-principal.jpg",
+    "descripcion": "Guitarra eléctrica Epiphone Original Collection Explorer designer de caoba ebony brillante con diapasón de laurel indio.",
+    "categoria": "guitarra"
+  },
+  {
+    "id": 3,
+    "nombre": "Guitarra Clasica Criolla cort",
+    "marca": "Cort",
+    "precio": 122.015,
+    "imagen": "https://mariogomez.com.ar/wp-content/uploads/2023/09/cort-ac150-ns-principal.jpg",
+    "descripcion": "Guitarra Clásica Criolla Cort Ac150-ns Con Funda.",
+    "categoria": "guitarra"
+  },
+  {
+    "id": 4,
+    "nombre": "Schecter Demon",
+    "marca": "Schecter",
+    "precio": 351.045,
+    "imagen": "https://acdn.mitiendanube.com/stores/001/312/585/products/schecter741-19476d72c28a04930716197317612189-1024-1024.jpg",
+    "descripcion": "Guitarra eléctrica Schecter Demon Series Demon-6 de tilo aged black satin con diapasón de wengué.",
+    "categoria": "guitarra"
+  },
+  {
+    "id": 5,
+    "nombre": "Teclado Midi Usb Novation",
+    "marca": "Novation",
+    "precio": 174.795,
+    "imagen": "https://www.heavenimagenes.com/heavencommerce/c98a269a-2842-4da0-a6e5-e0e155d29966/images/v2/NOVATION/2102021609265223_01_medium.jpg",
+    "descripcion": "Teclado Midi Usb Novation Launchkey 25 Mk3 Controlador.",
+    "categoria": "teclado"
+  },
+  {
+    "id": 6,
+    "nombre": "Epihone Les Paul",
+    "marca": "Epiphone",
+    "precio": 173.565,
+    "imagen": "https://www.ecomusicweb.com/wp-content/uploads/2021/08/STANDARDHONEY.png",
+    "descripcion": "Guitarra eléctrica Epiphone Les Paul Studio LT de caoba violin sunburst con diapasón de palo de rosa.",
+    "categoria": "guitarra"
+  },
+  {
+    "id": 7,
+    "nombre": "Bajo Electrico Squier",
+    "marca": "Squier",
+    "precio": 234.920,
+    "imagen": "https://www.heavenimagenes.com/heavencommerce/e11e0483-99c8-4ad2-b3a9-bfb26fc81402/images/v2/SQUIER/1912031648433863_06_medium.jpg",
+    "descripcion": "Bajo Eléctrico Squier Affinity Precision Pj Racing Red.",
+    "categoria": "bajo"
+  },
+  {
+    "id": 8,
+    "nombre": "Guitarra Electrica Squier Bullet Telecaster",
+    "marca": "Squier",
+    "precio": 173.870,
+    "imagen": "https://http2.mlstatic.com/D_NQ_NP_625215-MLA48111721507_112021-O.webp",
+    "descripcion": "Guitarra eléctrica Squier Bullet Telecaster de álamo black poliuretano brillante con diapasón de laurel indio.",
+    "categoria": "guitarra"
+  },
+  {
+    "id": 9,
+    "nombre": "Teclado Casio CTK-350",
+    "marca": "Casio",
+    "precio": 104.207,
+    "imagen": "https://proaudiosur.com.ar/wp-content/uploads/2021/05/D_855514-MLA44398592606_122020-F-1.jpg",
+    "descripcion": "Teclado musical Casio CTK-3500 61 teclas negro",
+    "categoria": "teclado"
+  },
+  {
+    "id": 10,
+    "nombre": "Guitarra Electrica Epihone SG",
+    "marca": "Epiphone",
+    "precio": 314.670,
+    "imagen": "https://therockstore.com.ar/wp-content/uploads/2021/10/1621877145751.jpg",
+    "descripcion": "Guitarra eléctrica Epiphone Modern SG SG Muse de caoba purple passion metallic metalizado con diapasón de laurel indio.",
+    "categoria": "guitarra"
+  },
+  {
+    "id": 11,
+    "nombre": "Bajo electrico 4 cuerdas Ibanez GSR200PW Pearl White",
+    "marca": "Ibanez",
+    "precio": 353.670,
+    "imagen": "https://bairesrocks.vteximg.com.br/arquivos/ids/234927/Gitarra_Ibanez_Tecnica-02.jpg?v=637763045284430000",
+    "descripcion": "Bajo eléctrico de 4 cuerdas Ibanez GSR200PW en elegante acabado Pearl White, perfecto para músicos de todos los niveles.",
+    "categoria": "bajo"
+  },
+  {
+    "id": 12,
+    "nombre": "Bajo Electrico 5 Cuerdas Ibanez GSR205BWNF Walnut Flat",
+    "marca": "Ibanez",
+    "precio": 435214,
+    "imagen": "https://bairesrocks.vteximg.com.br/arquivos/ids/234931/Gitarra_Ibanez_Tecnica-02.jpg?v=637763071146970000",
+    "descripcion": "El bajo eléctrico de 5 cuerdas Ibanez GSR205BWNF en Walnut Flat ofrece un sonido potente y versátil con un atractivo acabado mate. Perfecto para músicos exigentes.",
+    "categoria": "bajo"
+  }
+]

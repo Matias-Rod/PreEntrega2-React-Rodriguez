@@ -1,0 +1,8 @@
+ul li:hover{
+    background-color: rgb(23, 24, 24);
+    border-radius: 5px;
+}
+
+div button:hover{
+    background-color: rgb(37, 38, 41);
+}

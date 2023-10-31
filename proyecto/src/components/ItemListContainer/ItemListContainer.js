@@ -6,14 +6,14 @@ import ItemList from '../IemList/ItemList';
 
 const ItemListContainer = () => {
   const [item, setItem] = useState([]);
-  const {id} = useParams();
+  const {ID} = useParams();
 
   useEffect(() => {
     const fetchData = async()=>{
       try{
         const data = await new Promise ((resolve)=>{
           setTimeout(()=>{
-            resolve(id ? Products.filter(item => item.categoria === id) : Products)
+            resolve(ID ? Products.filter(item => item.categoria === (ID)) : Products)
           }, 1000);
         })
         setItem(data);
@@ -24,10 +24,10 @@ const ItemListContainer = () => {
 
     fetchData()
 
-  }, [id])
+  }, [ID])
 
   return (
-    <div className='container'>
+    <div className='container bg'>
       <div className="row">
         <ItemList item={item}/>
       </div>
